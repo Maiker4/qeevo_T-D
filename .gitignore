@@ -2,3 +2,4 @@ datasets/sample_submission.csv
 datasets/test.csv
 datasets/train.csv
 paystation-metadata.json
+datasets/demand-forecasting-kernels-only.zip
